@@ -13,7 +13,7 @@
     "react": "catalog:"
   },
   "devDependencies": {
-    "@types/aws-lambda": "^8.10.145",
+    "@types/aws-lambda": "^8.10.163",
     "@types/node": "catalog:",
     "typescript": "catalog:"
   }
